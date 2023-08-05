@@ -15,10 +15,8 @@ body {
 }
 
 .movieCoverContainer {
-  border: 1px solid red;
   width: 100%;
   display: inline-block;
-  position: absolute;
 }
 .movieCoverContainer:first-child {
   top: 0;
